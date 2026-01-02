@@ -4,7 +4,7 @@ const CONFIG = {
     // 1. SYSTEM SETTINGS
     // REPLACE THIS WITH YOUR DEPLOYED GOOGLE SCRIPT URL LATER
     GOOGLE_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbxwcbKMSOz20XDxqt8i0vacgpL2Qn0mRO6GEe-ZOF3V4PXY8katKBBUYo2bVmMfeEcISQ/exec", 
-
+    
     ui: {
         title: "Опитувальник тиків (PTQ)",
         desc: "Форма для оцінки моторних та вокальних тиків у дітей.",
